@@ -1,6 +1,7 @@
 import config
 import spotipy
 import spotipy.oauth2 as oauth2
+import pandas as pd
 
 #script for Spotify authorization
 credentials = oauth2.SpotifyClientCredentials(
@@ -17,4 +18,3 @@ us_top_fifty = spoty.user_playlist_tracks('spotify', '37i9dQZEVXbLRQDuF5jeBp')
 global_top_fifty = spoty.user_playlist_tracks('spotify', '37i9dQZEVXbMDoHDwVN2tF')
 us_viral_fifty = spoty.user_playlist_tracks('spotify', '37i9dQZEVXbKuaTI1Z1Afx')
 global_viral_fifty = spoty.user_playlist_tracks('spotify', '37i9dQZEVXbLiRSasKsNU9')
-
