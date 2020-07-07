@@ -1,0 +1,51 @@
+,artist,album,track_name,track_id,key,danceability,energy,instrumentalness,loudness,valence,speechiness
+0,DaBaby,BLAME IT ON BABY,ROCKSTAR (feat. Roddy Ricch),7ytR5pFWmSjzHJIeQkgog4,11,0.746,0.69,0,-7.956,0.497,0.164
+1,Jack Harlow,"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]","WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",2MbdDtCv5LUVjYy9RuGTgC,11,0.904,0.723,0,-5.224,0.835,0.26
+2,Pop Smoke,Shoot For The Stars Aim For The Moon,For The Night (feat. Lil Baby & DaBaby),0PvFJmanyNQMseIFrU708S,6,0.823,0.586,0,-6.606,0.347,0.2
+3,Lil Mosey,Certified Hitmaker,Blueberry Faygo,22LAwLoDA5b4AaGSkg6bKW,0,0.774,0.554,0,-7.909,0.349,0.0383
+4,StaySolidRocky,Party Girl,Party Girl,5RqR4ZCCKJDcBLIn4sih9l,6,0.728,0.431,0,-9.966,0.629,0.0622
+5,Harry Styles,Fine Line,Watermelon Sugar,6UelLqGlWMcVH1E5c4H7lY,0,0.548,0.816,0,-4.209,0.557,0.0465
+6,Pop Smoke,Shoot For The Stars Aim For The Moon,The Woo (feat. 50 Cent & Roddy Ricch),1H7KnK26kc1YyellpbINEn,1,0.49,0.618,3.77e-06,-5.655,0.286,0.104
+7,The Weeknd,After Hours,Blinding Lights,0VjIjW4GlUZAMYd2vXMi3b,1,0.514,0.73,9.54e-05,-5.934,0.334,0.0598
+8,Lil Baby,My Turn (Deluxe),We Paid (feat. 42 Dugg),6gxKUmycQX7uyMwJcweFjp,1,0.926,0.542,0,-5.064,0.564,0.293
+9,Jawsh 685,Savage Love (Laxed - Siren Beat),Savage Love (Laxed - Siren Beat),1xQ6trAsedVPCdbtDAmk0c,0,0.767,0.481,0,-8.52,0.761,0.0803
+10,THE SCOTTS,THE SCOTTS,THE SCOTTS,39Yp9wwQiSRIDOvrVg7mbk,0,0.716,0.537,0,-7.648,0.28,0.0514
+11,Roddy Ricch,Please Excuse Me For Being Antisocial,The Box,0nbXyq5TXYPCO7pr3N8S4I,10,0.896,0.586,0,-6.687,0.642,0.0559
+12,SAINt JHN,Roses (Imanbek Remix),Roses - Imanbek Remix,24Yi9hE78yPEbZ4kxyoXAI,8,0.77,0.724,0.0107,-5.484,0.898,0.0495
+13,Pop Smoke,Shoot For The Stars Aim For The Moon,Got It On Me,25zlnOAzbVoOzIeXSvQFf1,2,0.688,0.647,1.65e-05,-7.258,0.195,0.19
+14,Drake,Dark Lane Demo Tapes,Toosie Slide,466cKvZn1j45IpxDdYZqdA,1,0.83,0.49,3.04e-06,-8.82,0.845,0.209
+15,Lil Baby,The Bigger Picture,The Bigger Picture,44gRhRi2OhEf7moAUj6MD1,1,0.59,0.618,0,-5.756,0.153,0.334
+16,Pop Smoke,Meet The Woo,Dior,79s5XnCN4TJKTVMSmOx8Ep,7,0.548,0.805,0.000389,-5.732,0.648,0.351
+17,Don Toliver,Heaven Or Hell,After Party,527k23H0A4Q0UJN3vGs0Da,5,0.629,0.692,0.331,-8.045,0.453,0.0376
+18,Megan Thee Stallion,Savage Remix (feat. Beyoncé),Savage Remix (feat. Beyoncé),5v4GgrXPMghOnBBLmveLac,10,0.822,0.743,0,-4.772,0.636,0.28
+19,Surfaces,Where the Light Is,Sunday Best,1Cv1YLb4q0RzL6pybtaMLo,5,0.878,0.525,0,-6.832,0.694,0.0578
+20,Powfu,death bed (coffee for your head) (feat. beabadoobee),death bed (coffee for your head) (feat. beabadoobee),7eJMfftS33KTjuF7lTsMCx,8,0.726,0.431,0,-8.765,0.348,0.135
+21,Lady Gaga,Chromatica,Rain On Me (with Ariana Grande),7ju97lgwC2rKQ6wwsf9no9,9,0.672,0.855,0,-3.764,0.646,0.0397
+22,Jack Harlow,Sweet Action,WHATS POPPIN,1jaTQ3nqY3oAAYyCTbIvnM,11,0.923,0.604,0,-6.671,0.826,0.245
+23,NLE Choppa,Walk Em Down (feat. Roddy Ricch),Walk Em Down (feat. Roddy Ricch),4cSSL3YafYjM3yjgFO1vJg,9,0.867,0.744,0,-5.171,0.645,0.228
+24,Post Malone,Hollywood's Bleeding,Circles,21jGcNKet2qwijlDFuPiPb,0,0.695,0.762,0.00244,-3.497,0.553,0.0395
+25,Justin Bieber,Changes,Intentions (feat. Quavo),4umIPjkehX1r7uhmGvXiSV,9,0.806,0.546,0,-6.637,0.874,0.0575
+26,Kanye West,Wash Us In The Blood,Wash Us In The Blood,7mEUjhl6aTztdHCrxoTgBG,10,0.67,0.847,0,-4.85,0.381,0.409
+27,The Kid LAROI,GO (feat. Juice WRLD),GO (feat. Juice WRLD),2t7D3y0jvYjR8IP9Bosyew,6,0.544,0.744,0,-5.007,0.572,0.0889
+28,Pop Smoke,Shoot For The Stars Aim For The Moon,Make It Rain (feat. Rowdy Rebel),71d7LaAgPcNcUopu3OzmP7,1,0.5,0.767,9.79e-05,-4.105,0.58,0.403
+29,Drake,Dark Lane Demo Tapes,Chicago Freestyle (feat. Giveon),4wVOKKEHUJxHCFFNUWDn0B,10,0.735,0.449,0,-7.507,0.0397,0.347
+30,Post Malone,Hollywood's Bleeding,Sunflower - Spider-Man: Into the Spider-Verse,0RiRZpuVRbi7oqRdSMwhQY,2,0.755,0.522,0,-4.368,0.925,0.0575
+31,Pop Smoke,Shoot For The Stars Aim For The Moon,Gangstas,1hg3RlqFZXJb5YgRoK9qmF,4,0.548,0.506,0.0001,-7.434,0.557,0.102
+32,Polo G,THE GOAT,Flex (feat. Juice WRLD),2QqJTIlGKRLJC3onkavYEz,10,0.752,0.673,0,-5.792,0.35,0.153
+33,Juice WRLD,Goodbye & Good Riddance,Lucid Dreams,285pBltuF7vW8TeWk8hdRR,6,0.511,0.566,0,-7.23,0.218,0.2
+34,Future,High Off Life,Life Is Good (feat. Drake),1K5KBOgreBi5fkEHvg5ap3,2,0.795,0.574,0,-6.903,0.537,0.487
+35,Pop Smoke,Shoot For The Stars Aim For The Moon,Something Special,5kkaSMcf4BFlhRRICCKZb6,7,0.739,0.616,1.93e-06,-6.963,0.654,0.0338
+36,Pop Smoke,Shoot For The Stars Aim For The Moon,Aim For The Moon (feat. Quavo),6O7fPYTsb2mY0PiFt2ymDB,11,0.713,0.605,3.46e-06,-7.487,0.432,0.107
+37,Gunna,WUNNA,DOLLAZ ON MY HEAD (feat. Young Thug),3nS9a01VvXHQriLqJYwRqG,0,0.825,0.458,0,-7.47,0.161,0.0577
+38,Pop Smoke,Shoot For The Stars Aim For The Moon,44 BullDog,7sjFIZ1g5QLJLGja3k592K,8,0.8,0.564,1.65e-06,-5.817,0.318,0.4
+39,Juice WRLD,Righteous,Righteous,0OyQns5ayNK2OVaES0Vb8t,0,0.707,0.622,0,-6.951,0.223,0.031
+40,Pop Smoke,Shoot For The Stars Aim For The Moon,Creature (feat. Swae Lee),3eV2WT9YhfzkxbufnBF8wK,7,0.794,0.717,0,-5.73,0.372,0.251
+41,Tyla Yaweh,Tommy Lee (feat. Post Malone),Tommy Lee (feat. Post Malone),5QZKcQDp0tCcvMdyqEciBV,10,0.457,0.621,0,-5.923,0.634,0.138
+42,Chris Brown,Slime & B,Go Crazy,1IIKrJVP1C9N7iPtG6eOsK,0,0.755,0.578,0,-8.932,0.581,0.145
+43,Dua Lipa,Future Nostalgia,Don't Start Now,3PfIrDoz19wz7qK7tYeu62,11,0.793,0.793,0,-4.521,0.679,0.083
+44,Pop Smoke,Shoot For The Stars Aim For The Moon,Mood Swings (feat. Lil Tjay),5rZlwNFl01HqLWBQGryKSm,10,0.48,0.602,0,-6.335,0.269,0.368
+45,Harry Styles,Fine Line,Adore You,3jjujdWJ72nww5eGnfs2E7,8,0.676,0.771,7e-06,-3.675,0.569,0.0483
+46,Dua Lipa,Future Nostalgia,Break My Heart,017PF4Q3l4DBUiWoXk4OWT,4,0.73,0.729,1.39e-06,-3.434,0.467,0.0883
+47,Lewis Capaldi,Divinely Uninspired To A Hellish Extent (Extended Edition),Before You Go,2gMXnyrvIjhVBUZwvLZDMP,3,0.459,0.575,0,-4.858,0.183,0.0573
+48,iann dior,I'm Gone,Prospect (ft. Lil Baby),4iHSE5R1U8jf84tRn52xRt,1,0.816,0.579,0,-6.097,0.43,0.0867
+49,Ariana Grande,Stuck with U,Stuck with U (with Justin Bieber),4HBZA5flZLE435QTztThqH,8,0.597,0.45,0,-6.658,0.537,0.0418
